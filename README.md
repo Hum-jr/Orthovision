@@ -1,4 +1,4 @@
-# OrthoVision 🦴💻
+# OrthoVision 
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Hardware](https://img.shields.io/badge/hardware-ESP32%20%7C%20MPU6050-orange.svg)
